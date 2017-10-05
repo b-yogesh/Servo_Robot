@@ -8,12 +8,7 @@ Servo servoy;
 #define  servopinx   6   
 #define  servopiny   9 
 
-int valx = 0;       
-int valy = 0;       
-int posx = 0;
-int posy = 0;
-int incx = 10; 
-int incy = 10;
+      
 int val1 = 0, val2 = 0;
 int side = 0;
   
